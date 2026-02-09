@@ -1,0 +1,11 @@
+id: T000001
+slug: ax-cpt
+title: "AX-CPT Task"
+acquisition: eeg
+variant: baseline
+cognitive_domain: []
+maturity: smoke_tested
+version:
+  release_tag: ""
+evidence: []
+maintainer: []
