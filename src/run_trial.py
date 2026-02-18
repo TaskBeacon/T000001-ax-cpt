@@ -2,7 +2,7 @@ from functools import partial
 
 from psyflow import StimUnit, set_trial_context
 
-# trial stages: cue -> anticipation -> target -> feedback
+# trial stages use task-specific phase labels via set_trial_context(...)
 _TRIAL_COUNTER = 0
 
 
@@ -53,7 +53,7 @@ def run_trial(
         }
     )
 
-    # cue
+    # phase: context_cue
     make_unit(unit_label="fixation").add_stim(stim_bank.get("fixation")).show(
         duration=settings.fixation_duration,
         onset_trigger=settings.triggers.get("fixation_onset"),
@@ -64,14 +64,14 @@ def run_trial(
     set_trial_context(
         cue_unit,
         trial_id=trial_id,
-        phase="cue",
+        phase="context_cue",
         deadline_s=_deadline_s(settings.cue_duration),
         valid_keys=list(settings.key_list),
         block_id=block_id,
         condition_id=str(condition),
         task_factors={
             "condition": str(condition),
-            "stage": "cue",
+            "stage": "context_cue",
             "cue_letter": cue_letter,
             "probe_letter": probe_letter,
             "block_idx": block_idx,
@@ -80,19 +80,19 @@ def run_trial(
     )
     cue_unit.show(duration=settings.cue_duration, onset_trigger=settings.triggers.get("cue_onset")).to_dict(trial_data)
 
-    # anticipation
+    # phase: delay_fixation
     isi_unit = make_unit(unit_label="isi_fixation").add_stim(stim_bank.get("fixation"))
     set_trial_context(
         isi_unit,
         trial_id=trial_id,
-        phase="anticipation",
+        phase="delay_fixation",
         deadline_s=_deadline_s(settings.isi_duration),
         valid_keys=list(settings.key_list),
         block_id=block_id,
         condition_id=str(condition),
         task_factors={
             "condition": str(condition),
-            "stage": "anticipation",
+            "stage": "delay_fixation",
             "cue_letter": cue_letter,
             "probe_letter": probe_letter,
             "block_idx": block_idx,
@@ -101,20 +101,20 @@ def run_trial(
     )
     isi_unit.show(duration=settings.isi_duration).to_dict(trial_data)
 
-    # target
+    # phase: probe_response
     probe_stim_name = f"probe_{probe_letter}"
     probe_unit = make_unit(unit_label="probe").add_stim(stim_bank.get(probe_stim_name))
     set_trial_context(
         probe_unit,
         trial_id=trial_id,
-        phase="target",
+        phase="probe_response",
         deadline_s=_deadline_s(settings.probe_duration),
         valid_keys=list(settings.key_list),
         block_id=block_id,
         condition_id=str(condition),
         task_factors={
             "condition": str(condition),
-            "stage": "target",
+            "stage": "probe_response",
             "cue_letter": cue_letter,
             "probe_letter": probe_letter,
             "correct_key": str(correct_response),
@@ -132,7 +132,7 @@ def run_trial(
     )
     probe_unit.to_dict(trial_data)
 
-    # feedback
+    # outcome display
     response = probe_unit.get_state("response", False)
     hit = probe_unit.get_state("hit", False)
 

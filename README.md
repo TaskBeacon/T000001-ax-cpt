@@ -38,6 +38,13 @@ This task is an AX-Continuous Performance Test (AX-CPT) designed to assess cogni
 | 4. Feedback | Feedback (`Correct`, `Incorrect`, or `Too Slow`) is displayed. |
 | 5. Inter-Trial Interval (ITI) | A blank screen is shown before the next trial. |
 
+### Runtime Context Phases
+| Phase Label | Meaning |
+|---|---|
+| `context_cue` | context cue stage in `src/run_trial.py` responder context. |
+| `delay_fixation` | delay fixation stage in `src/run_trial.py` responder context. |
+| `probe_response` | probe response stage in `src/run_trial.py` responder context. |
+
 ## 3. Configuration Summary
 ### a. Subject Info
 | Field | Meaning |
@@ -104,7 +111,7 @@ This task is an AX-Continuous Performance Test (AX-CPT) designed to assess cogni
 | feedback_no_response | 53 |
 | feedback_onset | 60 |
 
-## 4. Methods
+## 4. Methods (for academic publication)
 Participants perform an AX-CPT task, a continuous performance paradigm used to measure cognitive control and context processing. Each trial consists of a cue letter (A or B) followed by a probe letter (X or Y). Participants are instructed to press the 'f' key if the cue is 'A' and the probe is 'X' (AX trials). For all other cue-probe combinations (AY, BX, BY), they are instructed to press the 'j' key.
 
 The task begins with a fixation cross, displayed for 500ms. The cue letter is then presented for 500ms, followed by a brief inter-stimulus interval (ISI) fixation of 500ms, and then the probe letter for up to 1000ms or until a response is made. Feedback (correct, incorrect, or no response) is provided for 500ms, followed by a randomized inter-trial interval between 800ms and 1200ms.
