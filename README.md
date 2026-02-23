@@ -1,7 +1,6 @@
 # AX-CPT Task
 
-![Maturity: smoke_tested](https://img.shields.io/badge/Maturity-smoke_tested-d97706?style=for-the-badge&labelColor=c2410c)
-
+![Maturity: smoke_tested](https://img.shields.io/badge/Maturity-smoke_tested-d97706?style=flat-square&labelColor=111827)
 | Field | Value |
 |---|---|
 | Name | AX-CPT Task |
