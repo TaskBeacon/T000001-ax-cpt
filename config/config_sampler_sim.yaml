@@ -2,6 +2,7 @@
 # - Used by: python main.py sim --config config/config_sampler_sim.yaml
 # - Scope: sampler simulation only (no qa section in this file)
 # - Profile: short smoke run for sampler integration checks
+# === Subject Form ===========================================================
 subinfo_fields:
 - name: subject_id
   type: int
@@ -31,6 +32,8 @@ subinfo_mapping:
   registration_failed: 注册失败。
   registration_successful: 注册成功！
   invalid_input: 字段 {field} 输入无效
+
+# === Display / Window =======================================================
 window:
   size:
   - 1920
@@ -41,6 +44,8 @@ window:
   fullscreen: true
   monitor_width_cm: 60
   monitor_distance_cm: 72
+
+# === Task ===================================================================
 task:
   task_name: ax_cpt
   language: chinese
@@ -61,6 +66,8 @@ task:
   seed_mode: same_across_sub
   voice_enabled: false
   delta: 0.0
+
+# === Stimuli ================================================================
 stimuli:
   fixation:
     type: text
@@ -151,6 +158,8 @@ stimuli:
     text: 实验结束，感谢您的参与！
     color: white
     height: 1.5
+
+# === Timing =================================================================
 timing:
   cue_duration: 0.5
   fixation_duration: 0.5
@@ -160,8 +169,11 @@ timing:
   iti_duration:
   - 0.8
   - 1.2
+
+# === Triggers ===============================================================
 triggers:
   map:
+    fixation_onset: 1
     exp_onset: 98
     exp_end: 99
     block_onset: 100
@@ -190,8 +202,11 @@ triggers:
     - 0
   policy:
     strict: false
+
   timing:
     post_delay_s: 0.001
+
+# === Simulation Framework ===================================================
 sim:
   output_dir: outputs/sim_sampler
   seed: 0
