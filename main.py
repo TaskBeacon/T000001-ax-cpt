@@ -17,6 +17,7 @@ from psyflow import (
     initialize_triggers,
     load_config,
     parse_task_run_options,
+    resolve_condition_weights,
     runtime_context,
 )
 
@@ -29,34 +30,6 @@ DEFAULT_CONFIG_BY_MODE = {
     "qa": "config/config_qa.yaml",
     "sim": "config/config_scripted_sim.yaml",
 }
-
-
-def _resolve_condition_weights(settings: TaskSettings) -> list[float] | None:
-    labels = [str(c) for c in list(getattr(settings, "conditions", []))]
-    raw = getattr(settings, "condition_weights", None)
-    if raw is None:
-        return None
-
-    if isinstance(raw, dict):
-        missing = [label for label in labels if label not in raw]
-        if missing:
-            raise ValueError(f"Missing weights for condition(s): {missing}")
-        weights = [float(raw[label]) for label in labels]
-    elif isinstance(raw, list):
-        if len(raw) != len(labels):
-            raise ValueError(
-                f"condition_weights length mismatch: expected {len(labels)} for {labels}, got {len(raw)}"
-            )
-        weights = [float(v) for v in raw]
-    else:
-        raise TypeError("task.condition_weights must be a list or mapping")
-
-    if any(v <= 0 for v in weights):
-        raise ValueError(f"task.condition_weights must be > 0 for all conditions, got {weights}")
-    if sum(weights) <= 0:
-        raise ValueError(f"task.condition_weights sum must be > 0, got {weights}")
-    return weights
-
 
 def run(options: TaskRunOptions):
     """Run AX-CPT in human/qa/sim mode with one auditable flow."""
@@ -116,7 +89,10 @@ def run(options: TaskRunOptions):
         instruction.wait_and_continue()
 
         all_data = []
-        condition_weights = _resolve_condition_weights(settings)
+        condition_weights = resolve_condition_weights(
+            getattr(settings, "condition_weights", None),
+            list(getattr(settings, "conditions", [])),
+        )
         for block_i in range(settings.total_blocks):
             block = (
                 BlockUnit(
