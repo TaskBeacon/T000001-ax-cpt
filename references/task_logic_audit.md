@@ -19,11 +19,11 @@
 - Total blocks: 4 (current implementation).
 - Trials per block: 40 (current implementation).
 - Randomization/counterbalancing:
-  - Current code path uses default `BlockUnit.generate_conditions()` with condition labels from config.
-  - This likely yields near-uniform condition frequencies.
+  - Current code path uses weighted `BlockUnit.generate_conditions(weights=...)`.
+  - Condition weights are config-defined: `AX=0.4, AY=0.1, BX=0.1, BY=0.4`.
 - Condition generation method:
   - Built-in `BlockUnit.generate_conditions(...)` is used.
-  - No custom generator currently enforces AX-dominant expectancy.
+  - Expectancy-sensitive distribution is enforced via `task.condition_weights` (no custom generator needed).
 - Runtime-generated trial values:
   - Cue/probe letters are parsed from condition tokens in `run_trial.py`.
   - ITI is sampled from `[min, max]` range by `StimUnit.show`.
@@ -136,9 +136,6 @@ For every screen with multiple simultaneous options/stimuli:
 
 ## 8. Inference Log
 
-- Decision: Condition-frequency policy expected to be AX-dominant for strong contextual expectancy.
-  - Why inference was required: Current task code/config do not document explicit literature ratio.
-  - Citation-supported rationale: AX-CPT proactive-control literature emphasizes expectancy manipulations across AX/AY/BX/BY.
 - Decision: Current delay (`isi_duration=0.5s`) is treated as an adapted short-delay variant.
   - Why inference was required: Selected references include multiple timing variants.
   - Citation-supported rationale: Timing parameters vary by paradigm objective and acquisition constraints; this profile should be justified explicitly in task docs.

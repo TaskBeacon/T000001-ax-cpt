@@ -31,6 +31,33 @@ DEFAULT_CONFIG_BY_MODE = {
 }
 
 
+def _resolve_condition_weights(settings: TaskSettings) -> list[float] | None:
+    labels = [str(c) for c in list(getattr(settings, "conditions", []))]
+    raw = getattr(settings, "condition_weights", None)
+    if raw is None:
+        return None
+
+    if isinstance(raw, dict):
+        missing = [label for label in labels if label not in raw]
+        if missing:
+            raise ValueError(f"Missing weights for condition(s): {missing}")
+        weights = [float(raw[label]) for label in labels]
+    elif isinstance(raw, list):
+        if len(raw) != len(labels):
+            raise ValueError(
+                f"condition_weights length mismatch: expected {len(labels)} for {labels}, got {len(raw)}"
+            )
+        weights = [float(v) for v in raw]
+    else:
+        raise TypeError("task.condition_weights must be a list or mapping")
+
+    if any(v <= 0 for v in weights):
+        raise ValueError(f"task.condition_weights must be > 0 for all conditions, got {weights}")
+    if sum(weights) <= 0:
+        raise ValueError(f"task.condition_weights sum must be > 0, got {weights}")
+    return weights
+
+
 def run(options: TaskRunOptions):
     """Run AX-CPT in human/qa/sim mode with one auditable flow."""
     task_root = Path(__file__).resolve().parent
@@ -89,6 +116,7 @@ def run(options: TaskRunOptions):
         instruction.wait_and_continue()
 
         all_data = []
+        condition_weights = _resolve_condition_weights(settings)
         for block_i in range(settings.total_blocks):
             block = (
                 BlockUnit(
@@ -98,7 +126,7 @@ def run(options: TaskRunOptions):
                     window=win,
                     keyboard=kb,
                 )
-                .generate_conditions()
+                .generate_conditions(weights=condition_weights)
                 .on_start(lambda b: trigger_runtime.send(settings.triggers.get("block_onset")))
                 .on_end(lambda b: trigger_runtime.send(settings.triggers.get("block_end")))
                 .run_trial(

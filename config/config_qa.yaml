@@ -58,6 +58,11 @@ task:
   - AY
   - BX
   - BY
+  condition_weights:
+    AX: 0.4
+    AY: 0.1
+    BX: 0.1
+    BY: 0.4
   key_list:
   - f
   - j
