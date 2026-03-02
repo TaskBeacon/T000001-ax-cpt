@@ -1,0 +1,2748 @@
+[
+  {
+    "id": "W2116704462",
+    "title": "Interactions between frontal cortex and basal ganglia in working memory: A computational model",
+    "authors": [
+      "Michael J. Frank",
+      "B. LOUGHRY",
+      "R. C. O'REILLY"
+    ],
+    "year": 2001,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.1.2.137",
+    "citation_count": 909,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2005938104",
+    "title": "Motivational influences on cognitive control: Behavior, brain activation, and individual differences",
+    "authors": [
+      "Hannah Locke",
+      "Todd S. Braver"
+    ],
+    "year": 2008,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.8.1.99",
+    "citation_count": 457,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2507703924",
+    "title": "Scaling-up an efficacious school-based physical activity intervention: Study protocol for the \u2018Internet-based Professional Learning to help teachers support Activity in Youth\u2019 (iPLAY) cluster randomized controlled trial and scale-up implementation evaluation",
+    "authors": [
+      "Chris Lonsdale",
+      "Taren Sanders",
+      "Kristen E. Cohen",
+      "Philip D. Parker",
+      "Michael Noetel",
+      "Timothy B. Hartwig",
+      "Diego Vasconcellos",
+      "Morwenna Kirwan",
+      "Philip J. Morgan",
+      "Jo Salmon",
+      "Marj Moodie",
+      "Heather McKay"
+    ],
+    "year": 2016,
+    "journal": "BMC Public Health",
+    "doi_or_url": "https://doi.org/10.1186/s12889-016-3243-2",
+    "citation_count": 292,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142836482",
+    "title": "Positive Affect Versus Reward: Emotional and Motivational Influences on Cognitive Control",
+    "authors": [
+      "Kimberly S. Chiew",
+      "Todd S. Braver"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00279",
+    "citation_count": 235,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141536557",
+    "title": "Temporal Dynamics of Motivation-Cognitive Control Interactions Revealed by High-Resolution Pupillometry",
+    "authors": [
+      "Kimberly S. Chiew",
+      "Todd S. Braver"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00015",
+    "citation_count": 233,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1972971003",
+    "title": "Dissociable influences of reward motivation and positive emotion on cognitive control",
+    "authors": [
+      "Kimberly S. Chiew",
+      "Todd S. Braver"
+    ],
+    "year": 2014,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-014-0280-0",
+    "citation_count": 209,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158023276",
+    "title": "Less-structured time in children's daily lives predicts self-directed executive functioning",
+    "authors": [
+      "Jane E. Barker",
+      "Andrei D. Semenov",
+      "Laura Michaelson",
+      "Lindsay S. Provan",
+      "Hannah R. Snyder",
+      "Yuko Munakata"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00593",
+    "citation_count": 205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2047427656",
+    "title": "Effects of the 5-HT2A Agonist Psilocybin on Mismatch Negativity Generation and AX-Continuous Performance Task: Implications for the Neuropharmacology of Cognitive Deficits in Schizophrenia",
+    "authors": [
+      "Daniel Umbricht",
+      "Franz X. Vollenweider",
+      "Liselotte Schmid",
+      "Claudia Gr\u00fcbel",
+      "Anja Skrabo",
+      "Theo Huber",
+      "R. Koller"
+    ],
+    "year": 2003,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/sj.npp.1300005",
+    "citation_count": 190,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141594097",
+    "title": "Reward Motivation Enhances Task Coding in Frontoparietal Cortex",
+    "authors": [
+      "Joset A. Etzel",
+      "Michael W. Cole",
+      "Jeffrey M. Zacks",
+      "Kendrick Kay",
+      "Todd S. Braver"
+    ],
+    "year": 2015,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhu327",
+    "citation_count": 159,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2783637861",
+    "title": "Intrinsic neuronal dynamics predict distinct functional roles during working memory",
+    "authors": [
+      "D. F. Wasmuht",
+      "Eelke Spaak",
+      "Timothy J. Buschman",
+      "E. K. Miller",
+      "Mark G. Stokes"
+    ],
+    "year": 2018,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-018-05961-4",
+    "citation_count": 147,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2135239585",
+    "title": "Improving prefrontal cortex function in schizophrenia through focused training of cognitive control",
+    "authors": [
+      "Bethany G. Edwards"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00032",
+    "citation_count": 142,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2558198874",
+    "title": "Inducing Proactive Control Shifts in the AX-CPT",
+    "authors": [
+      "Corentin Gonthier",
+      "Brooke N. Macnamara",
+      "Michael Chow",
+      "Andrew R. A. Conway",
+      "Todd S. Braver"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.01822",
+    "citation_count": 141,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120312500",
+    "title": "Selecting Paradigms From Cognitive Neuroscience for Translation into Use in Clinical Trials: Proceedings of the Third CNTRICS Meeting",
+    "authors": [
+      "Deanna M. Barch",
+      "C. S. Carter",
+      "Amy F.T. Arnsten",
+      "Robert W. Buchanan",
+      "Jonathan D. Cohen",
+      "Mark A. Geyer",
+      "M. F. Green",
+      "John H. Krystal",
+      "Keith H. Nuechterlein",
+      "Trevor W. Robbins",
+      "Steven M. Silverstein",
+      "E. E. SMITH"
+    ],
+    "year": 2008,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/sbn163",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3214096979",
+    "title": "Rethinking multilingual experience through a Systems Framework of Bilingualism",
+    "authors": [
+      "Debra Titone",
+      "Mehrgol Tiv"
+    ],
+    "year": 2022,
+    "journal": "Bilingualism Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/s1366728921001127",
+    "citation_count": 125,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4210980041",
+    "title": "Part 8: Education, implementation, and teams",
+    "authors": [
+      "Judith Finn",
+      "Farhan Bhanji",
+      "Andrew Lockey",
+      "Koenraad G. Monsieurs",
+      "Robert Frengley",
+      "Taku Iwami",
+      "Eddy Lang",
+      "Matthew Huei\u2010Ming",
+      "Mary E. Mancini",
+      "Mary Ann McNeil",
+      "Robert Greif",
+      "John E. Billi"
+    ],
+    "year": 2015,
+    "journal": "Resuscitation",
+    "doi_or_url": "https://doi.org/10.1016/j.resuscitation.2015.07.046",
+    "citation_count": 118,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2752630266",
+    "title": "The Role of Psychometrics in Individual Differences Research in Cognition: A Case Study of the AX-CPT",
+    "authors": [
+      "Shelly R. Cooper",
+      "Corentin Gonthier",
+      "Deanna M. Barch",
+      "Todd S. Braver"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.01482",
+    "citation_count": 116,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2152100378",
+    "title": "Positive Affect Modulates Flexibility and Evaluative Control",
+    "authors": [
+      "Nelleke C. van Wouwe",
+      "Guido P. H. Band",
+      "K. Richard Ridderinkhof"
+    ],
+    "year": 2009,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2009.21380",
+    "citation_count": 113,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163089896",
+    "title": "Technology consumption and cognitive control: Contrasting action video game experience with media multitasking",
+    "authors": [
+      "Pedro Cardoso-Leite",
+      "Rachel Kludt",
+      "Gianluca Vignola",
+      "Wei Ji",
+      "C. Shawn Green",
+      "Daphn\u00e9 Bavelier"
+    ],
+    "year": 2015,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-015-0988-0",
+    "citation_count": 107,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2074895600",
+    "title": "The Effects of CACNA1C Gene Polymorphism on Spatial Working Memory in Both Healthy Controls and Patients with Schizophrenia or Bipolar Disorder",
+    "authors": [
+      "Qiumei Zhang",
+      "Qiuge Shen",
+      "Zhansheng Xu",
+      "Min Chen",
+      "Lina Cheng",
+      "Jinguo Zhai",
+      "Huang Gu",
+      "Xin Bao",
+      "Xiongying Chen",
+      "Keqin Wang",
+      "Xiaoxiang Deng",
+      "Feng Ji"
+    ],
+    "year": 2011,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2011.242",
+    "citation_count": 101,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2904520264",
+    "title": "The Age\u2010Well randomized controlled trial of the Medit\u2010Ageing European project: Effect of meditation or foreign language training on brain and mental health in older adults",
+    "authors": [
+      "G\u00e9raldine Poisnel",
+      "Eider M. Arenaza\u2010Urquijo",
+      "Fabienne Collette",
+      "Olga Klimecki",
+      "Natalie L. Marchant",
+      "Miranka Wirth",
+      "Vincent de La Sayette",
+      "G\u00e9raldine Rauchs",
+      "\u00c9ric Salmon",
+      "Patrik Vuilleumier",
+      "\u00c9ric Frison",
+      "Aline Maillard"
+    ],
+    "year": 2018,
+    "journal": "Alzheimer s & Dementia Translational Research & Clinical Interventions",
+    "doi_or_url": "https://doi.org/10.1016/j.trci.2018.10.011",
+    "citation_count": 97,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2117864142",
+    "title": "Clinical, Functional, and Intertask Correlations of Measures Developed by the Cognitive Neuroscience Test Reliability and Clinical Applications for Schizophrenia Consortium",
+    "authors": [
+      "James M. Gold",
+      "Deanna M. Barch",
+      "C. S. Carter",
+      "Steven C. Dakin",
+      "Steven J. Luck",
+      "Angus W. MacDonald",
+      "J. Daniel Ragland",
+      "Charan Ranganath",
+      "Ilona Kov\u00e1cs",
+      "Steven M. Silverstein",
+      "Monika Strauss"
+    ],
+    "year": 2011,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/sbr142",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2098614104",
+    "title": "Variability in Proactive and Reactive Cognitive Control Processes Across the Adult Lifespan",
+    "authors": [
+      "Frini Karayanidis",
+      "Lisa Whitson",
+      "Andrew Heathcote",
+      "Patricia T. Michie"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00318",
+    "citation_count": 93,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2549539255",
+    "title": "Training on Working Memory and Inhibitory Control in Young Adults",
+    "authors": [
+      "Mar\u00eda J. Maraver",
+      "M. Teresa Bajo",
+      "Carlos J. G\u00f3mez\u2010Ariza"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2016.00588",
+    "citation_count": 89,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2054448328",
+    "title": "Age-related changes in the temporal dynamics of executive control: a study in 5- and 6-year-old children",
+    "authors": [
+      "Joanna Lucenet",
+      "Agn\u00c3 \u0308s Blaye"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00831",
+    "citation_count": 88,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2138793403",
+    "title": "Age-related decline in cognitive control: the role of fluid intelligence and processing speed",
+    "authors": [
+      "Marine Manard",
+      "Delphine Carabin",
+      "Mathieu Jaspar",
+      "Fabienne Collette"
+    ],
+    "year": 2014,
+    "journal": "BMC Neuroscience",
+    "doi_or_url": "https://doi.org/10.1186/1471-2202-15-7",
+    "citation_count": 87,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2206442719",
+    "title": "The neural circuitry supporting goal maintenance during cognitive control: a comparison of expectancy AX-CPT and dot probe expectancy paradigms",
+    "authors": [
+      "Pilar L\u00f3pez-Garc\u00eda",
+      "Tyler A. Lesh",
+      "Taylor Salo",
+      "Deanna M. Barch",
+      "Angus W. MacDonald",
+      "James M. Gold",
+      "J. Daniel Ragland",
+      "Milton E. Strauss",
+      "Steven M. Silverstein",
+      "Cameron S. Carter"
+    ],
+    "year": 2015,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-015-0384-1",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2128758520",
+    "title": "CNTRICS Imaging Biomarkers Selection: Working Memory",
+    "authors": [
+      "Deanna M. Barch",
+      "Holly Moore",
+      "Derek Evan Nee",
+      "Dara S. Manoach",
+      "S. J. Luck"
+    ],
+    "year": 2011,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/sbr160",
+    "citation_count": 77,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2110582442",
+    "title": "Modulation of Brain Activity during a Stroop Inhibitory Task by the Kind of Cognitive Control Required",
+    "authors": [
+      "Julien Grandjean",
+      "Kevin D\u2019Ostilio",
+      "Christophe Phillips",
+      "Evelyne Balteau",
+      "Christian Degueldre",
+      "Andr\u00e9 Luxen",
+      "Pierre Maquet",
+      "\u00c9ric Salmon",
+      "Fabienne Collette"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0041513",
+    "citation_count": 70,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2587738328",
+    "title": "Willing to Think Hard? The Subjective Value of Cognitive Effort in Children",
+    "authors": [
+      "Nicolas Chevalier"
+    ],
+    "year": 2017,
+    "journal": "Child Development",
+    "doi_or_url": "https://doi.org/10.1111/cdev.12805",
+    "citation_count": 69,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2060005696",
+    "title": "The Function and Organization of Lateral Prefrontal Cortex: A Test of Competing Hypotheses",
+    "authors": [
+      "Jeremy R. Reynolds",
+      "Randall C. O\u2019Reilly",
+      "Jonathan D. Cohen",
+      "Todd S. Braver"
+    ],
+    "year": 2012,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0030284",
+    "citation_count": 69,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3046186381",
+    "title": "Effects of HF-rTMS over the left and right DLPFC on proactive and reactive cognitive control",
+    "authors": [
+      "Mat\u00edas M. Pulopulos",
+      "Jens Allaert",
+      "Marie\u2013Anne Vanderhasselt",
+      "\u00c1lvaro S\u00e1nchez-L\u00f3pez",
+      "Sara De Witte",
+      "Chris Baeken",
+      "Rudi De Raedt"
+    ],
+    "year": 2020,
+    "journal": "Social Cognitive and Affective Neuroscience",
+    "doi_or_url": "https://doi.org/10.1093/scan/nsaa082",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2139303129",
+    "title": "Dissociable effects of game elements on motivation and cognition in a task-switching training in middle childhood",
+    "authors": [
+      "Sandra D\u00c3\u00b6rrenb\u00c3\u00a4cher",
+      "Philipp M. M\u00c3 \u2044 ller",
+      "Johannes Tr\u00c3\u00b6ger",
+      "Jutta Kray"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.01275",
+    "citation_count": 61,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158524610",
+    "title": "The When and Where of Working Memory Dysfunction in Early-Onset Schizophrenia\u2014A Functional Magnetic Resonance Imaging Study",
+    "authors": [
+      "Robert A. Bittner",
+      "David E.J. Linden",
+      "Alard Roebroeck",
+      "Fabian H\u00e4rtling",
+      "Anna Rotarska-Jagiela",
+      "Konrad Maurer",
+      "Rainer Goebel",
+      "Wolf Singer",
+      "Corinna Haenschel"
+    ],
+    "year": 2014,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhu050",
+    "citation_count": 59,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2020479837",
+    "title": "Effects of Ketamine on Context-Processing Performance in Monkeys: A New Animal Model of Cognitive Deficits in Schizophrenia",
+    "authors": [
+      "Rachael K. Blackman",
+      "Angus W. MacDonald",
+      "Matthew V. Chafee"
+    ],
+    "year": 2013,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2013.118",
+    "citation_count": 59,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2994142040",
+    "title": "Dynamic reorganization of the frontal parietal network during cognitive control and episodic memory",
+    "authors": [
+      "Kimberly L. Ray",
+      "J. Daniel Ragland",
+      "Angus W. MacDonald",
+      "James M. Gold",
+      "Steven M. Silverstein",
+      "Deanna M. Barch",
+      "Cameron S. Carter"
+    ],
+    "year": 2019,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-019-00753-9",
+    "citation_count": 58,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2756536482",
+    "title": "Levels of Cognitive Control: A Functional Magnetic Resonance Imaging-Based Test of an RDoC Domain Across Bipolar Disorder and Schizophrenia",
+    "authors": [
+      "Jason Smucny",
+      "Tyler A. Lesh",
+      "Keith Newton",
+      "Tara A. Niendam",
+      "J. Daniel Ragland",
+      "Cameron S. Carter"
+    ],
+    "year": 2017,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2017.233",
+    "citation_count": 55,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2903954915",
+    "title": "State Anxiety Impairs Proactive but Enhances Reactive Control",
+    "authors": [
+      "Youcai Yang",
+      "Tara A. Miskovich",
+      "Christine L. Larson"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.02570",
+    "citation_count": 53,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2999519723",
+    "title": "Differential Roles of Mediodorsal Nucleus of the Thalamus and Prefrontal Cortex in Decision-Making and State Representation in a Cognitive Control Task Measuring Deficits in Schizophrenia",
+    "authors": [
+      "Adele L. DeNicola",
+      "Min-Yoon Park",
+      "David A. Crowe",
+      "Angus W. MacDonald",
+      "Matthew V. Chafee"
+    ],
+    "year": 2020,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.1703-19.2020",
+    "citation_count": 51,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2061687573",
+    "title": "Impairments of working memory in schizophrenia and bipolar disorder: the effect of history of psychotic symptoms and different aspects of cognitive task demands",
+    "authors": [
+      "Dorota Frydecka",
+      "Abeer M. Eissa",
+      "Doaa H. Hewedi",
+      "Manal Ashraf Ali",
+      "Jaros\u00c5\u201aaw Drapa\u00c5\u201aa",
+      "B\u0142a\u017cej Misiak",
+      "Ewa K\u00c5\u201aosi\u00c5\u201eska",
+      "Joseph R. Phillips",
+      "Ahmed A. Moustafa"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnbeh.2014.00416",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2091388595",
+    "title": "How Positive Affect Modulates Proactive Control: Reduced Usage of Informative Cues Under Positive Affect with Low Arousal",
+    "authors": [
+      "Kerstin Fr\u00f6ber",
+      "Gesine Dreisbach"
+    ],
+    "year": 2012,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2012.00265",
+    "citation_count": 50,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3163985362",
+    "title": "Global disruption in excitation-inhibition balance can cause localized network dysfunction and Schizophrenia-like context-integration deficits",
+    "authors": [
+      "Olivia L. Calvin",
+      "A. David Redish"
+    ],
+    "year": 2021,
+    "journal": "PLoS Computational Biology",
+    "doi_or_url": "https://doi.org/10.1371/journal.pcbi.1008985",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2805678587",
+    "title": "The Effect of Mindfulness Training on Proactive and Reactive Cognitive Control",
+    "authors": [
+      "Yunyun Li",
+      "Fang Liu",
+      "Qin Zhang",
+      "Xinghua Liu",
+      "Ping Wei"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.01002",
+    "citation_count": 48,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3206925937",
+    "title": "The Quest for Signals in Noise: Leveraging Experiential Variation to Identify Bilingual Phenotypes",
+    "authors": [
+      "Anne L. Beatty\u2010Mart\u00ednez",
+      "Debra Titone"
+    ],
+    "year": 2021,
+    "journal": "Languages",
+    "doi_or_url": "https://doi.org/10.3390/languages6040168",
+    "citation_count": 45,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2805325446",
+    "title": "Motivational Influences on Performance Monitoring and Cognitive Control Across the Adult Lifespan",
+    "authors": [
+      "Nicola K. Ferdinand",
+      "Daniela Czernochowski"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2018.01018",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2297298876",
+    "title": "The Impact of Social Pressure and Monetary Incentive on Cognitive Control",
+    "authors": [
+      "Mina Li\u010den",
+      "Frank Hartmann",
+      "Grega Repov\u0161",
+      "Sergeja Slapni\u010dar"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.00093",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3039549697",
+    "title": "Using prefrontal transcranial direct current stimulation (tDCS) to enhance proactive cognitive control in schizophrenia",
+    "authors": [
+      "Megan A. Boudewyn",
+      "Katherine W. Scangos",
+      "Charan Ranganath",
+      "Cameron S. Carter"
+    ],
+    "year": 2020,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/s41386-020-0750-8",
+    "citation_count": 43,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2900229284",
+    "title": "Proactive and reactive cognitive control rely on flexible use of the ventrolateral prefrontal cortex",
+    "authors": [
+      "Sephira G. Ryman",
+      "Ansam A. El Shaikh",
+      "Nicholas A. Shaff",
+      "J. Christopher Edgar",
+      "Andrew B. Dodd",
+      "Christopher J. Wertz",
+      "Josef M. Ling",
+      "Deanna M. Barch",
+      "Shannon F. Stromberg",
+      "Denise Lin",
+      "Swala K. Abrams",
+      "Andrew R. Mayer"
+    ],
+    "year": 2018,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.24424",
+    "citation_count": 43,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2036112389",
+    "title": "The influence of monetary incentives on context processing in younger and older adults: an event-related potential study",
+    "authors": [
+      "Hannah Schmitt",
+      "Nicola K. Ferdinand",
+      "Jutta Kray"
+    ],
+    "year": 2015,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-015-0335-x",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4200533598",
+    "title": "Impact of Biological and Lifestyle Factors on Cognitive Aging and Work Ability in the Dortmund Vital Study: Protocol of an Interdisciplinary, Cross-sectional, and Longitudinal Study",
+    "authors": [
+      "Patrick D. Gajewski",
+      "Stephan Getzmann",
+      "Peter Br\u00f6de",
+      "Michael Burke",
+      "Cristina Cadenas",
+      "Silvia Capellino",
+      "Maren Claus",
+      "Erhan Gen\u00e7",
+      "Klaus Golka",
+      "Jan G. Hengstler",
+      "Thomas Kleinsorge",
+      "Rosemarie Marchan"
+    ],
+    "year": 2021,
+    "journal": "JMIR Research Protocols",
+    "doi_or_url": "https://doi.org/10.2196/32352",
+    "citation_count": 42,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2889519619",
+    "title": "The Effects of Arousal and Approach Motivated Positive Affect on Cognitive Control. An ERP Study",
+    "authors": [
+      "Andrzej Cudo",
+      "Piotr Francuz",
+      "Pawe\u0142 Augustynowicz",
+      "Pawe\u0142 Str\u00f3\u017cak"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2018.00320",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2908988314",
+    "title": "Task context load induces reactive cognitive control: An fMRI study on cortical and brain stem activity",
+    "authors": [
+      "Ver\u00f3nica M\u00e4ki-Marttunen",
+      "T. Hagen",
+      "Thomas Espeseth"
+    ],
+    "year": 2019,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-019-00691-6",
+    "citation_count": 41,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2607263475",
+    "title": "Getting ready to use control: Advances in the measurement of young children\u2019s use of proactive control",
+    "authors": [
+      "Sabine Doebel",
+      "Jane E. Barker",
+      "Nicolas Chevalier",
+      "Laura Michaelson",
+      "Anna V. Fisher",
+      "Yuko Munakata"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0175072",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2597217218",
+    "title": "Age Differences in the Transfer and Maintenance of Practice-Induced Improvements in Task Switching: The Impact of Working-Memory and Inhibition Demands",
+    "authors": [
+      "Jutta Kray",
+      "Feh\u00e9r Bal\u00e1zs"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.00410",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1964936990",
+    "title": "Neuroelectric indices of goal maintenance following a single bout of physical activity",
+    "authors": [
+      "Mark R. Scudder",
+      "Eric S. Drollette",
+      "Matthew B. Pontifex",
+      "Charles H. Hillman"
+    ],
+    "year": 2011,
+    "journal": "Biological Psychology",
+    "doi_or_url": "https://doi.org/10.1016/j.biopsycho.2011.12.009",
+    "citation_count": 40,
+    "is_high_impact": false,
+    "open_access": false,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2510479604",
+    "title": "Fitness and ERP Indices of Cognitive Control Mode during Task Preparation in Preadolescent Children",
+    "authors": [
+      "Keita Kamijo",
+      "Hiroaki Masaki"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2016.00441",
+    "citation_count": 39,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W783736043",
+    "title": "Anhedonia is associated with reduced incentive cue related activation in the basal ganglia",
+    "authors": [
+      "Yu Sun Chung",
+      "Deanna M. Barch"
+    ],
+    "year": 2015,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-015-0366-3",
+    "citation_count": 36,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3098573340",
+    "title": "Comparing machine and deep <scp>learning\u2010based</scp> algorithms for prediction of clinical improvement in psychosis with functional magnetic resonance imaging",
+    "authors": [
+      "Jason Smucny",
+      "Ian Davidson",
+      "Cameron S. Carter"
+    ],
+    "year": 2020,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.25286",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2803327564",
+    "title": "Modulating proactive cognitive control by reward: differential anticipatory effects of performance-contingent and non-contingent rewards",
+    "authors": [
+      "Motonori Yamaguchi",
+      "Akio Nishimura"
+    ],
+    "year": 2018,
+    "journal": "Psychological Research",
+    "doi_or_url": "https://doi.org/10.1007/s00426-018-1027-2",
+    "citation_count": 34,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3022505330",
+    "title": "No Robust Effect of Distributed Practice on the Short- and Long-Term Retention of Mathematical Procedures",
+    "authors": [
+      "Mirjam Ebersbach",
+      "Katharina Barzagar Nazari"
+    ],
+    "year": 2020,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2020.00811",
+    "citation_count": 33,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2894586336",
+    "title": "Association of Age at Onset and Longitudinal Course of Prefrontal Function in Youth With Schizophrenia",
+    "authors": [
+      "Tara A. Niendam",
+      "Kimberly L. Ray",
+      "Ana\u2010Maria Iosif",
+      "Tyler A. Lesh",
+      "Stefania R. Ashby",
+      "Pooja Patel",
+      "Jason Smucny",
+      "Emilio Ferrer",
+      "Marjorie Solomon",
+      "J. Daniel Ragland",
+      "Cameron S. Carter"
+    ],
+    "year": 2018,
+    "journal": "JAMA Psychiatry",
+    "doi_or_url": "https://doi.org/10.1001/jamapsychiatry.2018.2538",
+    "citation_count": 32,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3206779410",
+    "title": "A Pilot Study of a Parent Emotion Socialization Intervention: Impact on Parent Behavior, Child Self-Regulation, and Adjustment",
+    "authors": [
+      "Evalill B\u00f8lstad",
+      "Sophie S. Havighurst",
+      "Christian K. Tamnes",
+      "Egil Nygaard",
+      "Rune Flaaten Bj\u00f8rk",
+      "Maria Stavrinou",
+      "Thomas Espeseth"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2021.730278",
+    "citation_count": 32,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2436956003",
+    "title": "Impaired Context Processing is Attributable to Global Neuropsychological Impairment in Schizophrenia and Psychotic Bipolar Disorder",
+    "authors": [
+      "James L. Reilly",
+      "S. Kristian Hill",
+      "James M. Gold",
+      "Richard S.E. Keefe",
+      "Brett A. Clementz",
+      "Elliot S. Gershon",
+      "Matcheri S. Keshavan",
+      "Godfrey D. Pearlson",
+      "Carol A. Tamminga",
+      "John A. Sweeney"
+    ],
+    "year": 2016,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/sbw081",
+    "citation_count": 32,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2777623141",
+    "title": "The Role of Working Memory Gating in Task Switching: A Procedural Version of the Reference-Back Paradigm",
+    "authors": [
+      "Yoav Kessler"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.02260",
+    "citation_count": 32,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2057258986",
+    "title": "Neural Circuitry of Emotional and Cognitive Conflict Revealed through Facial Expressions",
+    "authors": [
+      "Kimberly S. Chiew",
+      "Todd S. Braver"
+    ],
+    "year": 2011,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0017635",
+    "citation_count": 31,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2607509920",
+    "title": "Trait impulsivity components correlate differently with proactive and reactive control",
+    "authors": [
+      "Shihua Huang",
+      "Zude Zhu",
+      "Wei Zhang",
+      "Yu Chen",
+      "Shuangju Zhen"
+    ],
+    "year": 2017,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0176102",
+    "citation_count": 29,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4364353464",
+    "title": "On the psychometric evaluation of cognitive control tasks: An Investigation with the Dual Mechanisms of Cognitive Control (DMCC) battery",
+    "authors": [
+      "Jean-Paul Snijder",
+      "Rongxiang Tang",
+      "Julie M. Bugg",
+      "Andrew R. A. Conway",
+      "Todd S. Braver"
+    ],
+    "year": 2023,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-023-02111-7",
+    "citation_count": 28,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3177252462",
+    "title": "Behavioral inhibition and dual mechanisms of anxiety risk: Disentangling neural correlates of proactive and reactive control",
+    "authors": [
+      "Emilio A. Valadez",
+      "Sonya V. Troller\u2010Renfree",
+      "George A. Buzzell",
+      "Heather A. Henderson",
+      "Andrea Chronis\u2010Tuscano",
+      "Daniel S. Pine",
+      "Nathan A. Fox"
+    ],
+    "year": 2021,
+    "journal": "JCPP Advances",
+    "doi_or_url": "https://doi.org/10.1002/jcv2.12022",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2613241826",
+    "title": "Tempering Proactive Cognitive Control by Transcranial Direct Current Stimulation of the Right (but Not the Left) Lateral Prefrontal Cortex",
+    "authors": [
+      "Carlos J. G\u00f3mez\u2010Ariza",
+      "M.C. Mart\u00edn Delgado",
+      "Julia Morales"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnins.2017.00282",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1998404717",
+    "title": "Cognitive Control and Discourse Comprehension in Schizophrenia",
+    "authors": [
+      "Megan A. Boudewyn",
+      "Cameron S. Carter",
+      "Tamara Y. Swaab"
+    ],
+    "year": 2012,
+    "journal": "Schizophrenia Research and Treatment",
+    "doi_or_url": "https://doi.org/10.1155/2012/484502",
+    "citation_count": 27,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3031733744",
+    "title": "Social exclusion modulates dual mechanisms of cognitive control: Evidence from ERPs",
+    "authors": [
+      "Mengsi Xu",
+      "Zhiai Li",
+      "Senqing Qi",
+      "Lingxia Fan",
+      "Xiaolin Zhou",
+      "Dong Yang"
+    ],
+    "year": 2020,
+    "journal": "Human Brain Mapping",
+    "doi_or_url": "https://doi.org/10.1002/hbm.24970",
+    "citation_count": 26,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2547883621",
+    "title": "The Effect of Aging on the Dynamics of Reactive and Proactive Cognitive Control of Response Interference",
+    "authors": [
+      "Xiang Ling",
+      "Baoqiang Zhang",
+      "Baoxi Wang",
+      "Jun Jiang",
+      "Fenghua Zhang",
+      "Zhujing Hu"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.01640",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2259115298",
+    "title": "Cognitive Control of Episodic Memory in Schizophrenia: Differential Role of Dorsolateral and Ventrolateral Prefrontal Cortex",
+    "authors": [
+      "J. Daniel Ragland",
+      "Charan Ranganath",
+      "Joshua L. Phillips",
+      "Megan A. Boudewyn",
+      "Ann M. Kring",
+      "Tyler A. Lesh",
+      "Debra L. Long",
+      "Steven J. Luck",
+      "Tara A. Niendam",
+      "Marjorie Solomon",
+      "Tamara Y. Swaab",
+      "Cameron S. Carter"
+    ],
+    "year": 2015,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2015.00604",
+    "citation_count": 24,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4294724952",
+    "title": "Task prioritization modulates alpha, theta and beta EEG dynamics reflecting proactive cognitive control",
+    "authors": [
+      "Nathalie Liegel",
+      "Daniel Schneider",
+      "Edmund Wascher",
+      "Stefan Arnau"
+    ],
+    "year": 2022,
+    "journal": "Scientific Reports",
+    "doi_or_url": "https://doi.org/10.1038/s41598-022-19158-9",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2809180440",
+    "title": "Task difficulty modulates brain-behavior correlations in language production and cognitive control: Behavioral and fMRI evidence from a phonological go/no-go picture-naming paradigm",
+    "authors": [
+      "Haoyun Zhang",
+      "Anna Eppes",
+      "Anne L. Beatty\u2010Mart\u00ednez",
+      "Christian A. Navarro\u2010Torres",
+      "Mich\u00e8le T. Diaz"
+    ],
+    "year": 2018,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-018-0616-2",
+    "citation_count": 22,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2753259399",
+    "title": "Overdominant Effect of a<i>CHRNA4</i>Polymorphism on Cingulo-Opercular Network Activity and Cognitive Control",
+    "authors": [
+      "Sepideh Sadaghiani",
+      "Bernard Ng",
+      "Andr\u00e9 Altmann",
+      "Jean\u2010Baptiste Poline",
+      "Tobias Banaschewski",
+      "Arun L.W. Bokde",
+      "Uli Bromberg",
+      "Christian B\u00fcchel",
+      "Erin Burke Quinlan",
+      "Patricia Conrod",
+      "Sylvane Desrivi\u00e8res",
+      "Herta Flor"
+    ],
+    "year": 2017,
+    "journal": "Journal of Neuroscience",
+    "doi_or_url": "https://doi.org/10.1523/jneurosci.0991-17.2017",
+    "citation_count": 21,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3157068016",
+    "title": "Proactive Control Mediates the Relationship Between Working Memory and Math Ability in Early Childhood",
+    "authors": [
+      "Chunjie Wang",
+      "Bao\u2010Ming Li",
+      "Yuan Yao"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2021.611429",
+    "citation_count": 20,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2887019491",
+    "title": "The Motivation-Based Promotion of Proactive Control: The Role of Salience Network",
+    "authors": [
+      "Lei Qiao",
+      "Lei Xu",
+      "Xianwei Che",
+      "Lijie Zhang",
+      "Yadan Li",
+      "Gui Xue",
+      "Hong Li",
+      "Antao Chen"
+    ],
+    "year": 2018,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2018.00328",
+    "citation_count": 20,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4361274099",
+    "title": "Does Language Entropy Shape Cognitive Performance? A Tale of Two Cities",
+    "authors": [
+      "Danika Wagner",
+      "Katerina Bekas",
+      "Ellen Bialystok"
+    ],
+    "year": 2023,
+    "journal": "Bilingualism Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/s1366728923000202",
+    "citation_count": 20,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4366547860",
+    "title": "Testing locus coeruleus-norepinephrine accounts of working memory, attention control, and fluid intelligence",
+    "authors": [
+      "Matthew K. Robison",
+      "Kathryn J. Ralph",
+      "Dawn M. Gondoli",
+      "Alexis Torres",
+      "Stephen Campbell",
+      "Gene A. Brewer",
+      "Bradley S. Gibson"
+    ],
+    "year": 2023,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-023-01096-2",
+    "citation_count": 20,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2518428360",
+    "title": "Individual Differences in Working Memory Capacity Modulates Semantic Negative Priming from Single Prime Words",
+    "authors": [
+      "Juan J. Ortells",
+      "Carmen Noguera",
+      "Dolores \u00c1lvarez",
+      "Encarna Carmona",
+      "George Houghton"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.01286",
+    "citation_count": 20,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2598280525",
+    "title": "Manipulating perceptual parameters in a continuous performance task",
+    "authors": [
+      "Nir Shalev",
+      "Glyn W. Humphreys",
+      "Nele Demeyere"
+    ],
+    "year": 2017,
+    "journal": "Behavior Research Methods",
+    "doi_or_url": "https://doi.org/10.3758/s13428-017-0877-7",
+    "citation_count": 19,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3175574933",
+    "title": "Neurocognitive subprocesses of working memory performance",
+    "authors": [
+      "Agatha Lenartowicz",
+      "Holly Truong",
+      "Kristen Enriquez",
+      "Julia Webster",
+      "Jean\u2010Baptiste Pochon",
+      "Jesse Rissman",
+      "Carrie E. Bearden",
+      "Sandra K. Loo",
+      "Robert M. Bilder"
+    ],
+    "year": 2021,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-021-00924-7",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4288339878",
+    "title": "14th Congress of the European Association for Clinical Pharmacology and Therapeutics (EACPT)",
+    "authors": [
+      "Thomas \u00d8hlenschl\u00e6ger",
+      "Mette Marie Hougaard Christensen",
+      "Jesper Hallas",
+      "Kim Sigaloff",
+      "Schellekens, A.F.A."
+    ],
+    "year": 2019,
+    "journal": "European Journal of Clinical Pharmacology",
+    "doi_or_url": "https://doi.org/10.1007/s00228-019-02685-2",
+    "citation_count": 18,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3138019944",
+    "title": "Toward a formal theory of proactivity",
+    "authors": [
+      "Falk Lieder",
+      "Gabriela Iwama"
+    ],
+    "year": 2021,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-021-00884-y",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2888382397",
+    "title": "Superior cognitive goal maintenance in carriers of genetic markers linked to reduced striatal D2 receptor density (C957T and DRD2/ANKK1-TaqIA)",
+    "authors": [
+      "Jonas Persson",
+      "Cecilia U. D. Stenfors"
+    ],
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0201837",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4220713491",
+    "title": "Enhancing task fMRI preprocessing via individualized model\u2010based filtering of intrinsic activity dynamics",
+    "authors": [
+      "Matthew F. Singh",
+      "Anxu Wang",
+      "Michael W. Cole",
+      "ShiNung Ching",
+      "Todd S. Braver"
+    ],
+    "year": 2021,
+    "journal": "NeuroImage",
+    "doi_or_url": "https://doi.org/10.1016/j.neuroimage.2021.118836",
+    "citation_count": 17,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2016625785",
+    "title": "Does verbal labeling influence age differences in proactive and reactive cognitive control?",
+    "authors": [
+      "Jutta Kray",
+      "Hannah Schmitt",
+      "Sonja Heintz",
+      "Agn\u00e8s Blaye"
+    ],
+    "year": 2015,
+    "journal": "Developmental Psychology",
+    "doi_or_url": "https://doi.org/10.1037/a0038795",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3112385004",
+    "title": "Alpha connectivity and inhibitory control in adults with autism spectrum disorder",
+    "authors": [
+      "Veronica Yuk",
+      "Benjamin T. Dunkley",
+      "Evdokia Anagnostou",
+      "Margot J. Taylor"
+    ],
+    "year": 2020,
+    "journal": "Molecular Autism",
+    "doi_or_url": "https://doi.org/10.1186/s13229-020-00400-y",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3197611985",
+    "title": "Decreased preparatory activation and inattention to cues suggest lower activation of proactive cognitive control among high procrastinating students",
+    "authors": [
+      "Ewa Wiwatowska",
+      "Dominik Czajeczny",
+      "Jaros\u0142aw M. Micha\u0142owski"
+    ],
+    "year": 2021,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-021-00945-2",
+    "citation_count": 17,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3213094514",
+    "title": "Fatigue-Related Effects in the Process of Task Interruption on Working Memory",
+    "authors": [
+      "Yueyuan Chen",
+      "Weining Fang",
+      "Beiyuan Guo",
+      "Haifeng Bao"
+    ],
+    "year": 2021,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2021.703422",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2000207027",
+    "title": "The Influence of Markov Decision Process Structure on the Possible Strategic Use of Working Memory and Episodic Memory",
+    "authors": [
+      "Eric A. Zilli",
+      "Michael E. Hasselmo"
+    ],
+    "year": 2008,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0002756",
+    "citation_count": 16,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2767689549",
+    "title": "Does the Effort of Processing Potential Incentives Influence the Adaption of Context Updating in Older Adults?",
+    "authors": [
+      "Hannah Schmitt",
+      "Jutta Kray",
+      "Nicola K. Ferdinand"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.01969",
+    "citation_count": 15,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2099736594",
+    "title": "Multi-modal aggression detection in trains",
+    "authors": [
+      "Zhihan Yang"
+    ],
+    "year": 2009,
+    "journal": "Research Repository (Delft University of Technology)",
+    "doi_or_url": "https://openalex.org/W2099736594",
+    "citation_count": 14,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3010720859",
+    "title": "The Impact of Facebook Use and Facebook Intrusion on Cognitive Control: E\ufb00ect in Proactive and Reactive Control",
+    "authors": [
+      "Andrzej Cudo",
+      "Natalia Kopi\u015b-Posiej",
+      "Piotr Francuz",
+      "Agata B\u0142achnio",
+      "Aneta Przepi\u00f3rka",
+      "Ma\u0142gorzata Tor\u00f3j"
+    ],
+    "year": 2019,
+    "journal": "Advances in Cognitive Psychology",
+    "doi_or_url": "https://doi.org/10.5709/acp-0257-6",
+    "citation_count": 13,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4392858938",
+    "title": "Association of neurotransmitter pathway polygenic risk with specific symptom profiles in psychosis",
+    "authors": [
+      "Tracy L. Warren",
+      "Justin D. Tubbs",
+      "Tyler A. Lesh",
+      "Mylena B. Corona",
+      "Sarvenaz Pakzad",
+      "Marina Albuquerque",
+      "Praveena Singh",
+      "Vanessa C. Zarubin",
+      "Sarah Morse",
+      "Pak C. Sham",
+      "Cameron S. Carter",
+      "Alex S. Nord"
+    ],
+    "year": 2024,
+    "journal": "Molecular Psychiatry",
+    "doi_or_url": "https://doi.org/10.1038/s41380-024-02457-0",
+    "citation_count": 13,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4380576727",
+    "title": "A Nomothetic Span Approach to the Construct Validation of Sustained Attention Consistency: Re-Analyzing Two Latent-Variable Studies of Performance Variability and Mind-Wandering Self-Reports",
+    "authors": [
+      "Matthew S. Welhaf",
+      "Michael J. Kane"
+    ],
+    "year": 2023,
+    "journal": "Psychological Research",
+    "doi_or_url": "https://doi.org/10.1007/s00426-023-01820-0",
+    "citation_count": 13,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4382809693",
+    "title": "Optimizing human performance in extreme environments through precision medicine: From spaceflight to high-performance operations on Earth",
+    "authors": [
+      "Michael A. Schmidt",
+      "Jeffrey A. Jones",
+      "Christopher E. Mason"
+    ],
+    "year": 2023,
+    "journal": "Cambridge Prisms Precision Medicine",
+    "doi_or_url": "https://doi.org/10.1017/pcm.2023.16",
+    "citation_count": 12,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2605650079",
+    "title": "Integrative Modeling of Prefrontal Cortex",
+    "authors": [
+      "William H. Alexander",
+      "Eliana Vassena",
+      "James Deraeve",
+      "Zachary D. Langford"
+    ],
+    "year": 2017,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn_a_01138",
+    "citation_count": 12,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2925006714",
+    "title": "The implementation of expectancy-based strategic processes is delayed in normal aging",
+    "authors": [
+      "Carmen Noguera",
+      "Sergio Fern\u00e1ndez",
+      "Dolores \u00c1lvarez",
+      "Encarna Carmona",
+      "Paloma Mar\u0131\u0301-Beffa",
+      "Juan J. Ortells"
+    ],
+    "year": 2019,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0214322",
+    "citation_count": 12,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2904769799",
+    "title": "Effect of language proficiency on proactive occulo-motor control among bilinguals",
+    "authors": [
+      "J. Singh",
+      "Bhoomika R. Kar"
+    ],
+    "year": 2018,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0207904",
+    "citation_count": 11,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2966745153",
+    "title": "Preserved Proactive Control in Ageing: A Stroop Study With Emotional Faces vs. Words",
+    "authors": [
+      "Natalie Berger",
+      "Anne Richards",
+      "Eddy J. Davelaar"
+    ],
+    "year": 2019,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2019.01906",
+    "citation_count": 11,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3083438583",
+    "title": "Cognitive Persistence and Executive Function in the Multilingual Brain During Aging",
+    "authors": [
+      "Susan Teubner\u2010Rhodes"
+    ],
+    "year": 2020,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2020.568702",
+    "citation_count": 11,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2772139639",
+    "title": "EEG Source Imaging Indices of Cognitive Control Show Associations with Dopamine System Genes",
+    "authors": [
+      "Gr\u00e1inne McLoughlin",
+      "Jason Palmer",
+      "Scott Makeig",
+      "Nima Bigdely-Shamlo",
+      "Tobias Banaschewski",
+      "Manfred Laucht",
+      "Daniel Brandeis"
+    ],
+    "year": 2017,
+    "journal": "Brain Topography",
+    "doi_or_url": "https://doi.org/10.1007/s10548-017-0601-z",
+    "citation_count": 11,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3100863870",
+    "title": "Does Alcohol Hangover Affect Emotion Regulation Capacity? Evidence From a Naturalistic Cross-Over Study Design",
+    "authors": [
+      "Craig Gunn",
+      "Graeme Fairchild",
+      "Joris C. Verster",
+      "Sally Adams"
+    ],
+    "year": 2020,
+    "journal": "Alcohol and Alcoholism",
+    "doi_or_url": "https://doi.org/10.1093/alcalc/agaa123",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4285590374",
+    "title": "The influence of pride emotion on executive function: Evidence from ERP",
+    "authors": [
+      "Xiao Yan Bi",
+      "Xie Ma",
+      "Aikeliya Abulaiti",
+      "Juan Yang",
+      "Tao Yun"
+    ],
+    "year": 2022,
+    "journal": "Brain and Behavior",
+    "doi_or_url": "https://doi.org/10.1002/brb3.2678",
+    "citation_count": 10,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2484833500",
+    "title": "Poster Session III-Wednesday",
+    "authors": [
+      "DI CHIARA, GAETANO",
+      "LECCA, DANIELE",
+      "FENU, SANDRO",
+      "Cadoni C"
+    ],
+    "year": 2013,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2013.281",
+    "citation_count": 10,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4295780001",
+    "title": "Predictive Processing and Inhibitory Control Drive Semantic Enhancements for Non-Dominant Language Word Recognition in Noise",
+    "authors": [
+      "Melinda Fricke",
+      "Megan Zirnstein"
+    ],
+    "year": 2022,
+    "journal": "Languages",
+    "doi_or_url": "https://doi.org/10.3390/languages7030239",
+    "citation_count": 9,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2126532100",
+    "title": "Catechol-O-methyltransferase Val158Met genotype in healthy and personality disorder individuals: Preliminary results from an examination of cognitive tests hypothetically differentially sensitive to dopamine functions",
+    "authors": [
+      "Winnie W. Leung"
+    ],
+    "year": 2008,
+    "journal": "Neuropsychiatric Disease and Treatment",
+    "doi_or_url": "https://doi.org/10.2147/ndt.s1500",
+    "citation_count": 9,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4317393972",
+    "title": "Second language acquisition of grammatical rules: The effects of learning condition, rule difficulty, and executive function",
+    "authors": [
+      "Marta Rivera",
+      "Daniela Paolieri",
+      "Antonio Iniesta",
+      "Ana Isabel Garc\u00eda P\u00e9rez",
+      "M. Teresa Bajo"
+    ],
+    "year": 2023,
+    "journal": "Bilingualism Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/s1366728922000815",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3139352671",
+    "title": "Developmental Changes in the Association Between Cognitive Control and Anxiety",
+    "authors": [
+      "Courtney A. Filippi",
+      "Anni R. Subar",
+      "Sanjana Ravi",
+      "Sara Haas",
+      "Sonya V. Troller\u2010Renfree",
+      "Nathan A. Fox",
+      "Ellen Leibenluft",
+      "Daniel S. Pine"
+    ],
+    "year": 2021,
+    "journal": "Child Psychiatry & Human Development",
+    "doi_or_url": "https://doi.org/10.1007/s10578-021-01150-5",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4223441038",
+    "title": "Patience is a virtue: Individual differences in cue-evoked pupil responses under temporal certainty",
+    "authors": [
+      "Audrey V. B. Hood",
+      "Katherine M. Hart",
+      "Frank M. Marchak",
+      "Keith A. Hutchison"
+    ],
+    "year": 2022,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-022-02482-7",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3154858165",
+    "title": "Language switching training modulates the neural network of non-linguistic cognitive control",
+    "authors": [
+      "Mo Chen",
+      "Fengyang Ma",
+      "Zhaoqi Zhang",
+      "Shuhua Li",
+      "Man Zhang",
+      "Qiming Yuan",
+      "Junjie Wu",
+      "Chunming Lu",
+      "Taomei Guo"
+    ],
+    "year": 2021,
+    "journal": "PLoS ONE",
+    "doi_or_url": "https://doi.org/10.1371/journal.pone.0247100",
+    "citation_count": 8,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2997256592",
+    "title": "Declarative and procedural working memory updating processes are mutually facilitative",
+    "authors": [
+      "Anthony W. Sali",
+      "Tobias Egner"
+    ],
+    "year": 2019,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-019-01887-1",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3215779364",
+    "title": "Poster Session II",
+    "authors": [
+      "Why the mentally ill smoke tobacco more than normal persons is unknown. The objectof the present study was to determine the OPRM1 A118G (rs1799971)",
+      "dopamine D receptor Taq A genotype",
+      "and sex differences of schizophrenicand bipolar smokers vs nonsmokers."
+    ],
+    "year": 2012,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2012.220",
+    "citation_count": 7,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2783637477",
+    "title": "The interference of negative emotional stimuli on context processing in mildly depressed undergraduates",
+    "authors": [
+      "Akihiro Masuyama",
+      "Yuriko Kaise",
+      "Yuji Sakano",
+      "Satoshi Mochizuki"
+    ],
+    "year": 2018,
+    "journal": "Cogent Psychology",
+    "doi_or_url": "https://doi.org/10.1080/23311908.2018.1424681",
+    "citation_count": 7,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2323051636",
+    "title": "Attentional modulation of the carry over of eye-movements between tasks",
+    "authors": [
+      "Peter J. Hills",
+      "Catherine Thompson",
+      "S. Jones",
+      "Richard M. Piech",
+      "Lee Painter",
+      "J. Michael Pake"
+    ],
+    "year": 2016,
+    "journal": "Acta Psychologica",
+    "doi_or_url": "https://doi.org/10.1016/j.actpsy.2016.03.012",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3124230804",
+    "title": "Examining the Trainability and Transferability of Working-Memory Gating Policies",
+    "authors": [
+      "Katrina Sabah",
+      "Nachshon Meiran",
+      "Gesine Dreisbach"
+    ],
+    "year": 2021,
+    "journal": "Journal of Cognitive Enhancement",
+    "doi_or_url": "https://doi.org/10.1007/s41465-021-00205-8",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4205105448",
+    "title": "Cognitive Control in Young and Older Adults: Does Mood Matter?",
+    "authors": [
+      "Linda Truong",
+      "Kesaan Kandasamy",
+      "Lixia Yang"
+    ],
+    "year": 2021,
+    "journal": "Brain Sciences",
+    "doi_or_url": "https://doi.org/10.3390/brainsci12010050",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3199596510",
+    "title": "Hot and cold executive functions in the brain: A prefrontal-cingular network",
+    "authors": [
+      "Mohammad Ali Salehinejad",
+      "Elham Ghanavati",
+      "Md Harun Ar Rashid",
+      "Michael A. Nitsche"
+    ],
+    "year": 2021,
+    "journal": "Unknown",
+    "doi_or_url": "https://doi.org/10.31219/osf.io/5sghe",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2997891625",
+    "title": "Transfer Reinforcement Learning Using Output-Gated Working Memory",
+    "authors": [
+      "Arthur Williams",
+      "Joshua L. Phillips"
+    ],
+    "year": 2020,
+    "journal": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "doi_or_url": "https://doi.org/10.1609/aaai.v34i02.5488",
+    "citation_count": 6,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]

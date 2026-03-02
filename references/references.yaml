@@ -1,0 +1,53 @@
+﻿task_id: T000001
+generated_at: "2026-03-02T00:00:00Z"
+selection_policy: manual_curation_from_openalex_ax_cpt_query
+citation_threshold: 100
+papers:
+  - id: W2558198874
+    title: Inducing Proactive Control Shifts in the AX-CPT
+    year: 2016
+    journal: Frontiers in Psychology
+    doi_or_url: https://doi.org/10.3389/fpsyg.2016.01822
+    citation_count: 141
+    open_access: true
+    is_high_impact: false
+    used_for:
+      - task_workflow
+      - condition_semantics
+      - response_rules
+  - id: W2752630266
+    title: The Role of Psychometrics in Individual Differences Research in Cognition A Case Study of the AX-CPT
+    year: 2017
+    journal: Frontiers in Psychology
+    doi_or_url: https://doi.org/10.3389/fpsyg.2017.01482
+    citation_count: 116
+    open_access: true
+    is_high_impact: false
+    used_for:
+      - condition_semantics
+      - trial_distribution
+      - quality_metrics
+  - id: W2047427656
+    title: Effects of the 5-HT2A Agonist Psilocybin on Mismatch Negativity Generation and AX-Continuous Performance Task
+    year: 2003
+    journal: Neuropsychopharmacology
+    doi_or_url: https://doi.org/10.1038/sj.npp.1300005
+    citation_count: 190
+    open_access: true
+    is_high_impact: true
+    used_for:
+      - timing_parameters
+      - eeg_context
+      - task_workflow
+  - id: W2120312500
+    title: Selecting Paradigms From Cognitive Neuroscience for Translation into Use in Clinical Trials Proceedings of the Third CNTRICS Meeting
+    year: 2008
+    journal: Schizophrenia Bulletin
+    doi_or_url: https://doi.org/10.1093/schbul/sbn163
+    citation_count: 133
+    open_access: true
+    is_high_impact: false
+    used_for:
+      - paradigm_rationale
+      - clinical_translation
+      - construct_validity

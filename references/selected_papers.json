@@ -1,0 +1,447 @@
+[
+  {
+    "id": "W2047427656",
+    "title": "Effects of the 5-HT2A Agonist Psilocybin on Mismatch Negativity Generation and AX-Continuous Performance Task: Implications for the Neuropharmacology of Cognitive Deficits in Schizophrenia",
+    "authors": [
+      "Daniel Umbricht",
+      "Franz X. Vollenweider",
+      "Liselotte Schmid",
+      "Claudia Gr\u00fcbel",
+      "Anja Skrabo",
+      "Theo Huber",
+      "R. Koller"
+    ],
+    "year": 2003,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/sj.npp.1300005",
+    "citation_count": 190,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141594097",
+    "title": "Reward Motivation Enhances Task Coding in Frontoparietal Cortex",
+    "authors": [
+      "Joset A. Etzel",
+      "Michael W. Cole",
+      "Jeffrey M. Zacks",
+      "Kendrick Kay",
+      "Todd S. Braver"
+    ],
+    "year": 2015,
+    "journal": "Cerebral Cortex",
+    "doi_or_url": "https://doi.org/10.1093/cercor/bhu327",
+    "citation_count": 159,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2152100378",
+    "title": "Positive Affect Modulates Flexibility and Evaluative Control",
+    "authors": [
+      "Nelleke C. van Wouwe",
+      "Guido P. H. Band",
+      "K. Richard Ridderinkhof"
+    ],
+    "year": 2009,
+    "journal": "Journal of Cognitive Neuroscience",
+    "doi_or_url": "https://doi.org/10.1162/jocn.2009.21380",
+    "citation_count": 113,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2074895600",
+    "title": "The Effects of CACNA1C Gene Polymorphism on Spatial Working Memory in Both Healthy Controls and Patients with Schizophrenia or Bipolar Disorder",
+    "authors": [
+      "Qiumei Zhang",
+      "Qiuge Shen",
+      "Zhansheng Xu",
+      "Min Chen",
+      "Lina Cheng",
+      "Jinguo Zhai",
+      "Huang Gu",
+      "Xin Bao",
+      "Xiongying Chen",
+      "Keqin Wang",
+      "Xiaoxiang Deng",
+      "Feng Ji"
+    ],
+    "year": 2011,
+    "journal": "Neuropsychopharmacology",
+    "doi_or_url": "https://doi.org/10.1038/npp.2011.242",
+    "citation_count": 101,
+    "is_high_impact": true,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2116704462",
+    "title": "Interactions between frontal cortex and basal ganglia in working memory: A computational model",
+    "authors": [
+      "Michael J. Frank",
+      "B. LOUGHRY",
+      "R. C. O'REILLY"
+    ],
+    "year": 2001,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.1.2.137",
+    "citation_count": 909,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2005938104",
+    "title": "Motivational influences on cognitive control: Behavior, brain activation, and individual differences",
+    "authors": [
+      "Hannah Locke",
+      "Todd S. Braver"
+    ],
+    "year": 2008,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/cabn.8.1.99",
+    "citation_count": 457,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2507703924",
+    "title": "Scaling-up an efficacious school-based physical activity intervention: Study protocol for the \u2018Internet-based Professional Learning to help teachers support Activity in Youth\u2019 (iPLAY) cluster randomized controlled trial and scale-up implementation evaluation",
+    "authors": [
+      "Chris Lonsdale",
+      "Taren Sanders",
+      "Kristen E. Cohen",
+      "Philip D. Parker",
+      "Michael Noetel",
+      "Timothy B. Hartwig",
+      "Diego Vasconcellos",
+      "Morwenna Kirwan",
+      "Philip J. Morgan",
+      "Jo Salmon",
+      "Marj Moodie",
+      "Heather McKay"
+    ],
+    "year": 2016,
+    "journal": "BMC Public Health",
+    "doi_or_url": "https://doi.org/10.1186/s12889-016-3243-2",
+    "citation_count": 292,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2142836482",
+    "title": "Positive Affect Versus Reward: Emotional and Motivational Influences on Cognitive Control",
+    "authors": [
+      "Kimberly S. Chiew",
+      "Todd S. Braver"
+    ],
+    "year": 2011,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2011.00279",
+    "citation_count": 235,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2141536557",
+    "title": "Temporal Dynamics of Motivation-Cognitive Control Interactions Revealed by High-Resolution Pupillometry",
+    "authors": [
+      "Kimberly S. Chiew",
+      "Todd S. Braver"
+    ],
+    "year": 2013,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2013.00015",
+    "citation_count": 233,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W1972971003",
+    "title": "Dissociable influences of reward motivation and positive emotion on cognitive control",
+    "authors": [
+      "Kimberly S. Chiew",
+      "Todd S. Braver"
+    ],
+    "year": 2014,
+    "journal": "Cognitive Affective & Behavioral Neuroscience",
+    "doi_or_url": "https://doi.org/10.3758/s13415-014-0280-0",
+    "citation_count": 209,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2158023276",
+    "title": "Less-structured time in children's daily lives predicts self-directed executive functioning",
+    "authors": [
+      "Jane E. Barker",
+      "Andrei D. Semenov",
+      "Laura Michaelson",
+      "Lindsay S. Provan",
+      "Hannah R. Snyder",
+      "Yuko Munakata"
+    ],
+    "year": 2014,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2014.00593",
+    "citation_count": 205,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2783637861",
+    "title": "Intrinsic neuronal dynamics predict distinct functional roles during working memory",
+    "authors": [
+      "D. F. Wasmuht",
+      "Eelke Spaak",
+      "Timothy J. Buschman",
+      "E. K. Miller",
+      "Mark G. Stokes"
+    ],
+    "year": 2018,
+    "journal": "Nature Communications",
+    "doi_or_url": "https://doi.org/10.1038/s41467-018-05961-4",
+    "citation_count": 147,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2135239585",
+    "title": "Improving prefrontal cortex function in schizophrenia through focused training of cognitive control",
+    "authors": [
+      "Bethany G. Edwards"
+    ],
+    "year": 2010,
+    "journal": "Frontiers in Human Neuroscience",
+    "doi_or_url": "https://doi.org/10.3389/fnhum.2010.00032",
+    "citation_count": 142,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2558198874",
+    "title": "Inducing Proactive Control Shifts in the AX-CPT",
+    "authors": [
+      "Corentin Gonthier",
+      "Brooke N. Macnamara",
+      "Michael Chow",
+      "Andrew R. A. Conway",
+      "Todd S. Braver"
+    ],
+    "year": 2016,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2016.01822",
+    "citation_count": 141,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2120312500",
+    "title": "Selecting Paradigms From Cognitive Neuroscience for Translation into Use in Clinical Trials: Proceedings of the Third CNTRICS Meeting",
+    "authors": [
+      "Deanna M. Barch",
+      "C. S. Carter",
+      "Amy F.T. Arnsten",
+      "Robert W. Buchanan",
+      "Jonathan D. Cohen",
+      "Mark A. Geyer",
+      "M. F. Green",
+      "John H. Krystal",
+      "Keith H. Nuechterlein",
+      "Trevor W. Robbins",
+      "Steven M. Silverstein",
+      "E. E. SMITH"
+    ],
+    "year": 2008,
+    "journal": "Schizophrenia Bulletin",
+    "doi_or_url": "https://doi.org/10.1093/schbul/sbn163",
+    "citation_count": 133,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W3214096979",
+    "title": "Rethinking multilingual experience through a Systems Framework of Bilingualism",
+    "authors": [
+      "Debra Titone",
+      "Mehrgol Tiv"
+    ],
+    "year": 2022,
+    "journal": "Bilingualism Language and Cognition",
+    "doi_or_url": "https://doi.org/10.1017/s1366728921001127",
+    "citation_count": 125,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W4210980041",
+    "title": "Part 8: Education, implementation, and teams",
+    "authors": [
+      "Judith Finn",
+      "Farhan Bhanji",
+      "Andrew Lockey",
+      "Koenraad G. Monsieurs",
+      "Robert Frengley",
+      "Taku Iwami",
+      "Eddy Lang",
+      "Matthew Huei\u2010Ming",
+      "Mary E. Mancini",
+      "Mary Ann McNeil",
+      "Robert Greif",
+      "John E. Billi"
+    ],
+    "year": 2015,
+    "journal": "Resuscitation",
+    "doi_or_url": "https://doi.org/10.1016/j.resuscitation.2015.07.046",
+    "citation_count": 118,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2752630266",
+    "title": "The Role of Psychometrics in Individual Differences Research in Cognition: A Case Study of the AX-CPT",
+    "authors": [
+      "Shelly R. Cooper",
+      "Corentin Gonthier",
+      "Deanna M. Barch",
+      "Todd S. Braver"
+    ],
+    "year": 2017,
+    "journal": "Frontiers in Psychology",
+    "doi_or_url": "https://doi.org/10.3389/fpsyg.2017.01482",
+    "citation_count": 116,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  },
+  {
+    "id": "W2163089896",
+    "title": "Technology consumption and cognitive control: Contrasting action video game experience with media multitasking",
+    "authors": [
+      "Pedro Cardoso-Leite",
+      "Rachel Kludt",
+      "Gianluca Vignola",
+      "Wei Ji",
+      "C. Shawn Green",
+      "Daphn\u00e9 Bavelier"
+    ],
+    "year": 2015,
+    "journal": "Attention Perception & Psychophysics",
+    "doi_or_url": "https://doi.org/10.3758/s13414-015-0988-0",
+    "citation_count": 107,
+    "is_high_impact": false,
+    "open_access": true,
+    "used_for": [
+      "task_workflow",
+      "timing_parameters"
+    ],
+    "parameter_bindings": {},
+    "notes": ""
+  }
+]
