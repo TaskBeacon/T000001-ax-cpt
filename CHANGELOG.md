@@ -2,6 +2,14 @@
 
 All notable development changes for `T000001-ax-cpt` are documented here.
 
+## [1.1.3] - 2026-03-10
+
+### Changed
+- Regenerated `task_flow.png` and `references/task_plot_*` with the updated task-plot skill.
+
+### Fixed
+- Updated the generated workflow figure to render exact cue/probe sample stimuli (`A`, `X`) instead of abstract internal phase placeholders.
+
 ## [1.1.2] - 2026-02-23
 
 ### Changed
