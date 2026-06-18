@@ -2,6 +2,16 @@
 
 All notable development changes for `T000001-ax-cpt` are documented here.
 
+## [1.1.4] - 2026-06-18
+
+### Changed
+- Updated `taskbeacon.yaml` to declare `contracts.taps: v0.2.0` and `runtime.profile: psyflow`.
+- Normalized the README task-flow image embed to the current task-build contract.
+
+### Added
+- Added `responders/task_sampler.py` as the standard TaskSamplerResponder entry point.
+- Added `assets/README.md` documenting that AX-CPT uses text primitives and needs no external stimulus assets.
+
 ## [1.1.3] - 2026-03-10
 
 ### Changed
