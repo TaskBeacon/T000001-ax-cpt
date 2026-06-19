@@ -1,37 +1,42 @@
 # Task Plot Brief
 
-Task: AX-CPT Task
+## Evidence Sources
 
-Goal measured: cognitive control and context maintenance.
+- `README.md`
+- `main.py`
+- `config/config.yaml`
+- `src/run_trial.py`
 
-Primary evidence:
-- `README.md`: task overview, methods, timing, condition weights.
-- `config/config.yaml`: condition list, response keys, timing, visible text stimuli.
-- `src/run_trial.py`: participant-visible trial sequence and response scoring.
+## Header
 
-Conditions:
-- AX: cue `A`, probe `X`, target trial, correct key `f`, weight 40%.
-- AY: cue `A`, probe `Y`, non-target trial, correct key `j`, weight 10%.
-- BX: cue `B`, probe `X`, non-target trial, correct key `j`, weight 10%.
-- BY: cue `B`, probe `Y`, non-target trial, correct key `j`, weight 40%.
+- Title: AX-CPT Task
+- Construct: cognitive control / context maintenance
 
-Trial phases:
-- Fixation: `+`, 500 ms, no response.
-- Cue: `A` or `B`, 500 ms. Runtime context allows keys, but scoring is at probe.
-- ISI: `+`, 500 ms.
-- Probe response: `X` or `Y`, up to 1000 ms, response keys `f` and `j`, terminates on response.
-- Feedback: `Correct`, `Incorrect`, or `No response`, 500 ms.
-- ITI: blank screen, random 800-1200 ms.
+## Participant-Visible Flow
 
-Participant-visible response rule:
-- Press `f` only for AX.
-- Press `j` for AY, BX, and BY.
+- Four randomized condition types are used: AX, AY, BX, BY.
+- AX is the target condition; AY, BX, and BY are non-target conditions.
+- Correct response is `f` for AX and `j` for AY, BX, and BY.
+- Every trial shows fixation, cue, delay fixation, probe response, feedback, and ITI.
+- Feedback is one of `Correct`, `Incorrect`, or `No response`.
 
-Block context:
-- 4 blocks, 40 trials per block, 160 trials total.
-- Trial types are weighted randomized within blocks.
+## Rows
 
-Image simplification:
-- Use four timeline rows: AX, AY, BX, BY.
-- Keep the same six phase snapshots in each row.
-- Use short English feedback labels to avoid encoding artifacts from the source files.
+- AX target: cue `A`, probe `X`, press `f`, 40% weight.
+- AY non-target: cue `A`, probe `Y`, press `j`, 10% weight.
+- BX non-target: cue `B`, probe `X`, press `j`, 10% weight.
+- BY non-target: cue `B`, probe `Y`, press `j`, 40% weight.
+
+## Timings
+
+- Fixation: 500 ms.
+- Cue: 500 ms.
+- Delay/ISI: 500 ms.
+- Probe response window: up to 1000 ms.
+- Feedback: 500 ms.
+- ITI: 800-1200 ms.
+
+## Rendering Notes
+
+- The generated raw image must contain only timeline content below a blank header band.
+- The final title, `Construct: cognitive control / context maintenance` subtitle, and TaskBeacon logo are added by post-processing.

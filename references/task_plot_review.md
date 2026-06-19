@@ -2,29 +2,23 @@
 
 Review checklist source: `E:/Taskbeacon/skills/task-plot/references/review_checklist.md`.
 
-Generated image:
-- `E:/Taskbeacon/T000001-ax-cpt/task_flow.png`
-
 ## Evidence Match
 
-- Pass: task is labeled as AX-CPT.
-- Pass: four condition rows are present: AX target, AY non-target, BX non-target, BY non-target.
-- Pass: phase order is fixation, cue, ISI, probe, feedback, ITI.
-- Pass: cues/probes match condition identities: AX, AY, BX, BY.
-- Pass: response labels show `f` only for AX and `j` for AY/BX/BY.
-- Pass: timing labels show 500 ms fixation/cue/ISI/feedback, up to 1000 ms probe, and 800-1200 ms ITI.
+- Pass: task name matches `AX-CPT Task`.
+- Pass: rows match AX, AY, BX, and BY conditions.
+- Pass: phase order matches `src/run_trial.py`: fixation, cue, ISI, probe, feedback, ITI.
+- Pass: timing labels match config: 500 ms fixation/cue/ISI/feedback, up to 1000 ms probe, 800-1200 ms ITI.
+- Pass: response mapping is correct: `f` only for AX target; `j` for AY, BX, and BY.
 
 ## Visual Quality
 
-- Pass: text is readable at normal preview size.
-- Pass: no obvious garbled labels or unsupported decorative content.
-- Pass: rows and arrows clearly show temporal order.
-- Pass: timing labels do not overlap screen snapshots.
-- Pass: upgraded TaskBeacon figure style is applied with gray screen boxes, row separators, and restrained condition colors.
-- Pass: the image model did not generate its own logo, watermark, or brand text.
-- Pass: the fixed TaskBeacon logo lockup was applied in post-processing and appears borderless in the top-right corner without overlapping timeline content.
-- Pass: README embeds `![Task Flow](task_flow.png)` under `## 2. Task Flow`.
+- Pass: fixed title and `Construct: cognitive control / context maintenance` subtitle are centered in the header.
+- Pass: fixed TaskBeacon logo lockup is borderless in the top-right corner and does not overlap content.
+- Pass: text is readable and no generated extra title, subtitle, logo, watermark, people, or devices are present.
+- Pass: `references/task_plot_timeline_raw.png` preserves the generated timeline before header/logo post-processing.
 
-## Decision
+## README Embed
 
-Accepted regenerated `task_flow.png` from the upgraded `task-plot` skill template and fixed logo overlay workflow. No further regeneration required.
+- Pass: `README.md` contains `## 2. Task Flow`.
+- Pass: the first image under `## 2. Task Flow` is exactly `![Task Flow](task_flow.png)`.
+- Pass: final image is saved at the task root as `task_flow.png`.
