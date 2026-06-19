@@ -1,0 +1,26 @@
+# Task Plot Imagen Review
+
+Review checklist source: `E:/Taskbeacon/skills/task-plot-imagen/references/review_checklist.md`.
+
+Generated image:
+- `E:/Taskbeacon/T000001-ax-cpt/task_flow_imagen.png`
+
+## Evidence Match
+
+- Pass: task is labeled as AX-CPT.
+- Pass: four condition rows are present: AX target, AY non-target, BX non-target, BY non-target.
+- Pass: phase order is fixation, cue, ISI, probe, feedback, ITI.
+- Pass: cues/probes match condition identities: AX, AY, BX, BY.
+- Pass: response labels show `f` only for AX and `j` for AY/BX/BY.
+- Pass: timing labels show 500 ms fixation/cue/ISI/feedback, up to 1000 ms probe, and 800-1200 ms ITI.
+
+## Visual Quality
+
+- Pass: text is readable at normal preview size.
+- Pass: no obvious garbled labels or unsupported decorative content.
+- Pass: rows and arrows clearly show temporal order.
+- Pass: timing labels do not overlap screen snapshots.
+
+## Decision
+
+Accepted first generation. No regeneration required.

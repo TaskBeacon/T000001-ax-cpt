@@ -13,7 +13,7 @@ task_plot_spec:
     layout:
       max_conditions: 4
       screens_per_timeline: 6
-      screen_overlap_ratio: 0.1
+      screen_overlap_ratio: 0.0
       screen_slope: 0.08
       screen_slope_deg: 25.0
       timeline_gap: 0.18
@@ -35,6 +35,25 @@ task_plot_spec:
   - condition: AX
     display_condition_label: AX
     phases:
+    - phase_name: pre cue fixation
+      display_phase_label: Fixation
+      duration_ms:
+        fixed: 500
+      response_window_ms: null
+      display_timing_label: 500 ms
+      stim_ids:
+      - fixation
+      stimulus_example:
+        summary: +
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: +
+          color: white
+          pos: null
+          height: 1.5
+      notes: ''
     - phase_name: context cue
       display_phase_label: Cue
       duration_ms:
@@ -44,12 +63,12 @@ task_plot_spec:
       stim_ids:
       - cue_A
       stimulus_example:
-        summary: A
+        summary: A / B
         modality: visual
         draw_hint: text
         render_items:
         - kind: text
-          text: A
+          text: A / B
           color: white
           pos: null
           height: 1.5
@@ -83,19 +102,57 @@ task_plot_spec:
       stim_ids:
       - probe_X
       stimulus_example:
-        summary: X
+        summary: X / Y
         modality: visual
         draw_hint: text
         render_items:
         - kind: text
-          text: X
+          text: X / Y
           color: white
           pos: null
           height: 1.5
+      notes: ''
+    - phase_name: feedback
+      display_phase_label: Feedback
+      duration_ms:
+        fixed: 500
+      response_window_ms: null
+      display_timing_label: 500 ms
+      stim_ids:
+      - no_response_feedback
+      stimulus_example:
+        summary: 未反应
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: 未反应
+          color: white
+          pos: null
+          height: 1.5
+      notes: ''
+    - phase_name: iti
+      display_phase_label: ITI
+      duration_ms:
+        range:
+        - 800
+        - 1200
+      response_window_ms: null
+      display_timing_label: 800-1200 ms
+      stim_ids:
+      - blank_iti
+      stimulus_example:
+        summary: blank screen
+        modality: visual
+        draw_hint: text
+        render_items:
+        - kind: text
+          text: ''
+          color: white
       notes: ''
     condition_variants:
     - AY
     - BX
     - BY
-    display_condition_note: 'Also: AY, BX, BY'
+    display_condition_note: 'Variants: AX, AY, BX, BY'
   legend: []
