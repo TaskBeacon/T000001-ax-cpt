@@ -26,15 +26,15 @@ Visual requirements:
 - Place condition labels at the left of each row.
 - Use short labels only; avoid paragraphs inside the image.
 - Make all text legible at normal document preview size.
-- Add a small unobtrusive `TaskBeacon` watermark in the bottom-right corner, outside the timeline content.
+- Leave clean whitespace in the top-right corner for a fixed TaskBeacon logo lockup that will be added after generation.
 
 Accuracy constraints:
 - Do not invent phases, stimuli, condition names, keys, rewards, or timings.
 - Do not add people, lab equipment, decorative scenes, logos, or unrelated icons.
-- Do not add any watermark except the exact bottom-right `TaskBeacon` watermark.
+- Do not draw any logo, watermark, brand mark, or `TaskBeacon` text inside the generated image.
 - If a detail is unknown, omit it rather than guessing.
 - Preserve these exact terms where used: AX, AY, BX, BY, A, B, X, Y, f, j, 500 ms, 1000 ms, 800-1200 ms, Correct, Incorrect, No response, ITI.
 - Show `f` only for AX target and `j` for AY, BX, and BY.
 
 Style:
-TaskBeacon scientific infographic style: clean vector-like raster image, organized spacing, gray screen boxes, restrained color accents, small bottom-right TaskBeacon watermark.
+TaskBeacon scientific infographic style: clean vector-like raster image, organized spacing, gray screen boxes, restrained color accents, and a blank top-right logo-safe area.

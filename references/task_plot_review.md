@@ -21,9 +21,10 @@ Generated image:
 - Pass: rows and arrows clearly show temporal order.
 - Pass: timing labels do not overlap screen snapshots.
 - Pass: upgraded TaskBeacon figure style is applied with gray screen boxes, row separators, and restrained condition colors.
-- Pass: the `TaskBeacon` watermark appears in the bottom-right corner and does not overlap timeline content.
+- Pass: the image model did not generate its own logo, watermark, or brand text.
+- Pass: the fixed TaskBeacon logo lockup was applied in post-processing and appears in the top-right corner without overlapping timeline content.
 - Pass: README embeds `![Task Flow](task_flow.png)` under `## 2. Task Flow`.
 
 ## Decision
 
-Accepted regenerated `task_flow.png` from the upgraded `task-plot` skill template. No further regeneration required.
+Accepted regenerated `task_flow.png` from the upgraded `task-plot` skill template and fixed logo overlay workflow. No further regeneration required.
