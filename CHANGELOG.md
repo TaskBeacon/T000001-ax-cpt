@@ -2,6 +2,11 @@
 
 All notable development changes for `T000001-ax-cpt` are documented here.
 
+## [Unreleased]
+
+### Fixed
+- Added trial context metadata for the pre-cue fixation, feedback, and ITI phases so all visible AX-CPT phases are responder-auditable.
+
 ## [1.1.4] - 2026-06-18
 
 ### Changed

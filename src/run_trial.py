@@ -34,7 +34,25 @@ def run_trial(
     )
 
     # phase: context_cue
-    make_unit(unit_label="fixation").add_stim(stim_bank.get("fixation")).show(
+    fixation_unit = make_unit(unit_label="fixation").add_stim(stim_bank.get("fixation"))
+    set_trial_context(
+        fixation_unit,
+        trial_id=trial_id,
+        phase="pre_cue_fixation",
+        deadline_s=settings.fixation_duration,
+        valid_keys=[],
+        block_id=block_id,
+        condition_id=str(condition),
+        task_factors={
+            "condition": str(condition),
+            "stage": "pre_cue_fixation",
+            "cue_letter": cue_letter,
+            "probe_letter": probe_letter,
+            "block_idx": block_idx,
+        },
+        stim_id="fixation",
+    )
+    fixation_unit.show(
         duration=settings.fixation_duration,
         onset_trigger=settings.triggers.get("fixation_onset"),
     ).to_dict(trial_data)
@@ -118,19 +136,61 @@ def run_trial(
 
     if response and hit:
         feedback_stim = stim_bank.get("correct_feedback")
+        feedback_stim_id = "correct_feedback"
         feedback_trigger = settings.triggers.get("feedback_correct_response")
     elif response and not hit:
         feedback_stim = stim_bank.get("incorrect_feedback")
+        feedback_stim_id = "incorrect_feedback"
         feedback_trigger = settings.triggers.get("feedback_incorrect_response")
     else:
         feedback_stim = stim_bank.get("no_response_feedback")
+        feedback_stim_id = "no_response_feedback"
         feedback_trigger = settings.triggers.get("feedback_no_response")
 
-    make_unit(unit_label="feedback").add_stim(feedback_stim).show(
+    feedback_unit = make_unit(unit_label="feedback").add_stim(feedback_stim)
+    set_trial_context(
+        feedback_unit,
+        trial_id=trial_id,
+        phase="feedback",
+        deadline_s=settings.feedback_duration,
+        valid_keys=[],
+        block_id=block_id,
+        condition_id=str(condition),
+        task_factors={
+            "condition": str(condition),
+            "stage": "feedback",
+            "cue_letter": cue_letter,
+            "probe_letter": probe_letter,
+            "response": bool(response),
+            "hit": bool(hit),
+            "feedback_stim_id": feedback_stim_id,
+            "block_idx": block_idx,
+        },
+        stim_id=feedback_stim_id,
+    )
+    feedback_unit.show(
         duration=settings.feedback_duration,
         onset_trigger=feedback_trigger,
     ).to_dict(trial_data)
 
-    make_unit(unit_label="iti").show(duration=settings.iti_duration).to_dict(trial_data)
+    iti_unit = make_unit(unit_label="iti")
+    set_trial_context(
+        iti_unit,
+        trial_id=trial_id,
+        phase="iti",
+        deadline_s=settings.iti_duration,
+        valid_keys=[],
+        block_id=block_id,
+        condition_id=str(condition),
+        task_factors={
+            "condition": str(condition),
+            "stage": "iti",
+            "cue_letter": cue_letter,
+            "probe_letter": probe_letter,
+            "block_idx": block_idx,
+        },
+        stim_id="blank_iti",
+    )
+    iti_unit.show(duration=settings.iti_duration).to_dict(trial_data)
 
     return trial_data
