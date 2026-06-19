@@ -22,7 +22,7 @@ Generated image:
 - Pass: timing labels do not overlap screen snapshots.
 - Pass: upgraded TaskBeacon figure style is applied with gray screen boxes, row separators, and restrained condition colors.
 - Pass: the image model did not generate its own logo, watermark, or brand text.
-- Pass: the fixed TaskBeacon logo lockup was applied in post-processing and appears in the top-right corner without overlapping timeline content.
+- Pass: the fixed TaskBeacon logo lockup was applied in post-processing and appears borderless in the top-right corner without overlapping timeline content.
 - Pass: README embeds `![Task Flow](task_flow.png)` under `## 2. Task Flow`.
 
 ## Decision
