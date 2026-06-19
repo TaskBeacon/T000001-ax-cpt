@@ -1,9 +1,9 @@
-# Task Plot Imagen Review
+# Task Plot Review
 
-Review checklist source: `E:/Taskbeacon/skills/task-plot-imagen/references/review_checklist.md`.
+Review checklist source: `E:/Taskbeacon/skills/task-plot/references/review_checklist.md`.
 
 Generated image:
-- `E:/Taskbeacon/T000001-ax-cpt/task_flow_imagen.png`
+- `E:/Taskbeacon/T000001-ax-cpt/task_flow.png`
 
 ## Evidence Match
 

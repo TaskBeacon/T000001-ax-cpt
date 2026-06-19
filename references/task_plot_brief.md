@@ -1,4 +1,4 @@
-# Task Plot Imagen Brief
+# Task Plot Brief
 
 Task: AX-CPT Task
 
